@@ -1,8 +1,8 @@
-## Interface: 50200
+## Interface: 50300
 ## Title: Aanye Mail
 ## Notes: New Mail alert plugin for any DataBroker display.
 ## Author: Aanye
-## Version: 1.0
+## Version: 1.1
 ## OptionalDeps: Ace3
 
 ## SavedVariables: Aanye_Mail_DB
