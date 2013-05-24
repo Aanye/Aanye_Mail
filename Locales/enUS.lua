@@ -7,5 +7,4 @@ L["Aanye_Mail"] = true
 L["New Mail"] = true
 L["No Mail"] = true
 
-L["Unread mail from:"] = true
-L["No unread mail."] = true
+L["No unread mail"] = true
